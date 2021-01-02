@@ -1,6 +1,6 @@
 def greet_characters(array)
   array. each do |name|
-    puts "#{name} is ready!"
+    "#{name} is ready!"
   end
   # Use `each` to enumerate over the provided array
   #
