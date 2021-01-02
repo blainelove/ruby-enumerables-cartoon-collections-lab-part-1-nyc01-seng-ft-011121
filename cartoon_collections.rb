@@ -10,7 +10,7 @@ end
 def list_dwarves(array)
  count = 1
   array.each_with_index do |name, index|
-    puts count "#{name}"
+    
 
   end
   count += 1
