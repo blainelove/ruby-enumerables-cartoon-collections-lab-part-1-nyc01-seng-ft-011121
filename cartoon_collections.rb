@@ -8,7 +8,7 @@ def greet_characters(array)
 end
 
 def list_dwarves(array)
-  count = 1
+ count = 1
   array.each_with_index do |name, index|
     puts count "#{name}"
 
