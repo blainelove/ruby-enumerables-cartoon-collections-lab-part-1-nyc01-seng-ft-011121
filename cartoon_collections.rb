@@ -9,7 +9,7 @@ end
 
 def list_dwarves(array)
 
-  array.each_with_index do |name, idx|
+  array.each_with_index do |name, index|
     puts idx "#{name}"
 
 
